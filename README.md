@@ -8,14 +8,23 @@ The code can be used to execute an exploratory modelling approach to provide ins
 Design Optimization Models. 
 
 Run in the following order: 
-Load_data.py\\
-PreAnalysisProcessing.py\\
-CounterShare.py\\
-PetaJoules.py\\
-OutcomesofInterest.py\\
+
+Load_data.py 
+
+PreAnalysisProcessing.py
+
+CounterShare.py
+
+PetaJoules.py
+
+OutcomesofInterest.py
+
 --> Now the results analysis steps can be performed. 
 
-for Cosine Distance-based clustering, run in the following order after OutcomesofInterest.py: \\
-CosDistHeatmap.py\\
-Clustering.py\\
+for Cosine Distance-based clustering, run in the following order after OutcomesofInterest.py: 
+
+CosDistHeatmap.py
+
+Clustering.py
+
 CART.py
